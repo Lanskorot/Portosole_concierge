@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+test2.py
+*.log
+.vscode/
+.idea/
+env/
